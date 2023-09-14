@@ -19,7 +19,7 @@ Source: https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challeng
 
 ## Data Preprocessing
 
-<img src= "Images/null_nullifier.jpg" width=
+<img src= "Images/null_nullifier.jpg">
 
 - Discuss the steps you took to clean and preprocess the data.
 - Explain how missing values, outliers, and categorical variables were handled.
